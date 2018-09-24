@@ -1,2 +1,2 @@
 # TriviaNationBot
-A Bot Made By Dark, Modified by Iot and RobertoDraws
+A Bot Made By Dark And RobertoDraws. Modified for use by Trivia-Nation.
